@@ -65,7 +65,9 @@
 - 服务端，使用`nodejs`来写服务端的逻辑，包括`netlify`的简单转发逻辑和`heroku`的数据操作逻辑等。
 - 前端，使用`tailwind`做样式，js框架还没太想好尝试了下`lit`，怕hold不住，到时候不行再换`remix`。
 
-
+# 6 分支
+- db: 只用来维护`words.json`文件。
+- master: 放置静态资源，前后端代码等等。
 
 
 
