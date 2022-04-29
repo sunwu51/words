@@ -21,13 +21,14 @@
 同时对2w个单词爬取了`人声朗读的mp3`数据，也是1w7的结果，放到`asset/mp3/`目录下
 
 ```
-|_asset
-  |_info
-    |_a.json
-    |_abe.json
-  |_mp3
-    |_a.mp3
-    |_able.mp3
+|_netlify
+  |_asset
+    |_info
+      |_a.json
+      |_abe.json
+    |_mp3
+      |_a.mp3
+      |_able.mp3
 ```
 
 # 4 存储与服务
