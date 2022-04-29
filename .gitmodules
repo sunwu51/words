@@ -1,3 +1,6 @@
 [submodule "words-netlify"]
 	path = words-netlify
 	url = https://github.com/sunwu51/words-netlify.git
+[submodule "words-spider"]
+	path = words-spider
+	url = https://github.com/sunwu51/words-spider.git
