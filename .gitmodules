@@ -4,3 +4,9 @@
 [submodule "words-spider"]
 	path = words-spider
 	url = https://github.com/sunwu51/words-spider.git
+[submodule "words-db"]
+	path = words-db
+	url = https://github.com/sunwu51/words-db.git
+[submodule "words-heroku"]
+	path = words-heroku
+	url = https://github.com/sunwu51/words-heroku.git
